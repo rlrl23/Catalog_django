@@ -1,0 +1,38 @@
+[
+  {
+    "model": "mainapp.param",
+    "pk": 1,
+    "fields": {
+      "name": "Длина",
+      "value": "100.00",
+      "price": "100.00"
+    }
+  },
+  {
+    "model": "mainapp.param",
+    "pk": 2,
+    "fields": {
+      "name": "Длина",
+      "value": "200.00",
+      "price": "200.00"
+    }
+  },
+  {
+    "model": "mainapp.param",
+    "pk": 3,
+    "fields": {
+      "name": "Ширина",
+      "value": "100.00",
+      "price": "100.00"
+    }
+  },
+  {
+    "model": "mainapp.param",
+    "pk": 4,
+    "fields": {
+      "name": "Ширина",
+      "value": "200.00",
+      "price": "200.00"
+    }
+  }
+]
